@@ -1,0 +1,6 @@
+---
+description: Fork doctrine
+alwaysApply: true
+---
+
+Follow AGENTS.md. Tiny diffs. No game archives in git. Study tooling; do not drive-by refactor.
